@@ -1,24 +1,10 @@
----
-title: 'Class 11: Chapter 19: The Goodies'
-separator: '\-\-\-\-\-'
-verticalSeparator: '\+\+\+\+\+'
-theme: 'moon'
-revealOptions:
-    transition: 'fade'
----
-
-### ITSE-1402 Intermediate Python
+### ITSE-1042 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 11: Chapter 19: The Goodies / Web Frameworks</span>
 <br /><br />
-##### [https://bit.ly/1402-class11](https://bit.ly/1402-class11)
 
 -----
 
 ##### Chapter 19: The Goodies
-
-+++++
-
-[https://bit.ly/1402-chap19](https://bit.ly/1402-chap19)
 
 +++++
 

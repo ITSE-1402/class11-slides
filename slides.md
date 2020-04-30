@@ -587,10 +587,11 @@ When you are working with functions that have a large number of parameters, it i
     
 Notes from Raymond Hettinger's talk at pycon US 2013
 Learn to take better advantage of Python's best features and improve existing code 
-through a series of code transformations, "When you see this, do that instead."   
-https://bit.ly/1402-prettypython-notes
-https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go
+through a series of code transformations, "When you see this, do that instead."
 
+https://bit.ly/1402-prettypython-notes   
+https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go   
+   
 
 -----
 

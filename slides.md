@@ -582,9 +582,15 @@ When you are working with functions that have a large number of parameters, it i
 
 +++++
 
-[bit.ly/1402-prettypython](https://bit.ly/1402-prettypython)
 
-[bit.ly/1402-prettypython-notes](https://bit.ly/1402-prettypython-notes)
+### Transforming Code into Beautiful, Idiomatic Python        
+    
+Notes from Raymond Hettinger's talk at pycon US 2013
+Learn to take better advantage of Python's best features and improve existing code 
+through a series of code transformations, "When you see this, do that instead."   
+https://bit.ly/1402-prettypython-notes
+https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go
+
 
 -----
 
@@ -746,6 +752,9 @@ As mod\_python's development stalled and security vulnerabilities were discovere
 +++++
 
 ![Image](./assets/wsgi.jpg)
+
+Full Stack Python - WSGI Servers
+https://www.fullstackpython.com/wsgi-servers.html 
 
 Note:
 While you can start a web server with WSGI, it should only be used in development. WSGI does not completely replace a web server. It shares the responsibility with a reverse proxy such as nginx. 
